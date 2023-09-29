@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    color: orangered;
+}
+
+h2{
+    text-align: center;
+    color: green;
+}
+
+.textopais{
+    text-align: center;
+    margin-right: 190px;
+    margin-bottom: 60px;
+}
+
+h3{
+    margin-left: 280px;
+    color: green;
+}
+
+p{
+    margin-left: 200px;
+}
+
+img{
+    width: 60%;
+    height: 450px;
+
+}
+
+
+h4{
+    text-align: center;
+}
+
+form{
+    padding-left: 250px;
+}
